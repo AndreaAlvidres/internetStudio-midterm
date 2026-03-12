@@ -1,0 +1,46 @@
+p {
+    font-family: 'Alegreya';
+    font-size: 20px;
+    color:#000000;
+    font-weight: bold;
+}
+h1 {
+    font-family: 'Aboreto';
+    font-size: 80px;
+    color:#ffffff;
+    text-shadow: 4px 2px rgb(0, 0, 0);
+}
+h2 {
+    font-family: 'Aboreto';
+    font-size: 20px;
+    color:#ffffff;
+    font-weight: bold;
+}
+h3 {
+    font-family: 'Aboreto';
+    font-size: 18px;
+    color:#818181;
+    text-shadow: 4px 2px rgb(0, 0, 0);
+}
+body {
+   background-color: #5e8abd; 
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position: center;
+   background-attachment: fixed;
+}
+ol {
+    font-family: 'Alegreya';
+    font-size: 10px;
+    color: #000000;
+    font-weight: bold;
+}
+a {
+    font-family: 'Alegreya';
+    font-size: 10px;
+    color: #ffffff;
+    font-weight: bold;
+}
+me{
+width: 50%;
+}
